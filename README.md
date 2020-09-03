@@ -1,2 +1,2 @@
-# rp_template
-A template for a version 5 resourcepack cause why not
+# rp-template
+A template for a resourcepack cause why not
