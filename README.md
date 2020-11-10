@@ -1,2 +1,3 @@
-# rp-template
-A template for a resourcepack cause why not
+# Resource Pack Template
+
+Use this to start a resource pack, other formats are on seperate branches.
